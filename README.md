@@ -1,4 +1,4 @@
-# Hospital-_Management
+# Hospital_Management
 
 📘 Introduction
 We did a project on hospital management system. This database will manage all the salary of the treatment, patient all types of information regarding medical history.
